@@ -1,0 +1,38 @@
+body{
+  display: flex;
+  min-height: 100vh;
+  justify-content: center;
+  align-items: center;
+  background: black;
+}
+.container{
+  padding: 10px;
+  border-radius: 10px;
+  background: #10002B;
+  height: 50vh;
+  border: solid white 0.5px;
+  box-shadow: 0px 0px 5px 1px lightcyan;
+}
+.but{
+  width: 10vh;
+  height: 10vh;
+  font-size: 20px;
+  font-family: fantasy;
+  border: none;
+  background: #60519B;
+  color: white;
+  margin: 2px;
+}
+.screen{
+  margin: 0px;
+  color: white;
+}
+.display-section{
+  height: 5vh;
+  background: black;
+  border: solid white 0.5px;
+  padding: 5px;
+}
+.but-section{
+  padding: 5px;
+}
